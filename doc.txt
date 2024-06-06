@@ -1,0 +1,6 @@
+node .\backend\server.js
+
+front end server : 
+localhost:5000
+backend server :
+localhost:8000
